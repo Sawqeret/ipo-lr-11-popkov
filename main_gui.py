@@ -289,7 +289,7 @@ def show_about():
        
         dpg.add_text("Лабораторная работа номер 12")
         dpg.add_text("Вариант: 5")
-        dpg.add_text("Разработчик: Шубников Святослав Эрнестович")
+        dpg.add_text("Разработчик: Попков Сергей Витальевич")
         dpg.add_text("Группа 81 ТП")
         dpg.add_button(label="Закрыть", callback=lambda: dpg.delete_item("about_window"))
 
